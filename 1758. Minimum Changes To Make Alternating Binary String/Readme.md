@@ -1,4 +1,4 @@
-# 1758. Minimum Changes To Make Alternating Binary String
+
 
 <h2><a href="https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/">1758. Minimum Changes To Make Alternating Binary String</a></h2><h3>Easy</h3><hr><div><p>You are given a string <code>s</code> consisting only of the characters <code>'0'</code> and <code>'1'</code>. In one operation, you can change any <code>'0'</code> to <code>'1'</code> or vice versa.</p>
 <p>The string is called <strong>alternating</strong> if no two adjacent characters are equal. For example, the string <code>"010"</code> is alternating, while the string <code>"0100"</code> is not.</p>
