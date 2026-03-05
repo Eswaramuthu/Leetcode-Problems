@@ -1,2 +1,2 @@
-# Super-30
-This file is used for SUPER 30 session.
+# Leet Code Problems
+This file is used to showcase my leetcode streak.
